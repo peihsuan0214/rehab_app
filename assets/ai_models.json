@@ -1,0 +1,14 @@
+[
+  {
+    "action_id": 19,
+    "classification_tag": "UIPRMD_clf_bn_DS",
+    "regression_tag": "UIPRMD_reg_DS",
+    "difficulty_score": 0.85
+  },
+  {
+    "action_id": 20,
+    "classification_tag": "IRDS_clf_bn_EFL",
+    "regression_tag": "IRDS_reg_EFL",
+    "difficulty_score": 0.92
+  }
+]
